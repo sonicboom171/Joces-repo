@@ -1,0 +1,24 @@
+Origin: Repo for Joce
+Label: Repo for Joce
+Suite: stable
+Version: 1.0
+Codename: Joce's Repo
+Architectures: iphoneos-arm
+Components: main
+Description: This is your repo Joce
+Origin: Joce's Repo
+Label: Joce's Repo
+Suite: stable
+Version: 1.0
+Codename: Repo for Joce
+Architectures: iphoneos-arm
+Components: main
+Description: This is where you download stuff from
+Origin: Joce's Repo
+Label: Joce's Repo
+Suite: stable
+Version: 1.0
+Codename: Repo test
+Architectures: iphoneos-arm
+Components: main
+Description: Download stuff from here Joce
